@@ -1,0 +1,30 @@
+
+Rule Name:                            BLOCK SMB 445 - Sprint02
+----------------------------------------------------------------------
+Enabled:                              Yes
+Direction:                            In
+Profiles:                             Domain,Private,Public
+Grouping:                             
+LocalIP:                              Any
+RemoteIP:                             Any
+Protocol:                             TCP
+LocalPort:                            445
+RemotePort:                           Any
+Edge traversal:                       No
+Action:                               Block
+
+Rule Name:                            BLOCK SMB 445 - Sprint02
+----------------------------------------------------------------------
+Enabled:                              Yes
+Direction:                            In
+Profiles:                             Domain,Private,Public
+Grouping:                             
+LocalIP:                              Any
+RemoteIP:                             Any
+Protocol:                             TCP
+LocalPort:                            445
+RemotePort:                           Any
+Edge traversal:                       No
+Action:                               Block
+Ok.
+
