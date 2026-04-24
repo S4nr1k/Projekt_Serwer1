@@ -1,0 +1,8 @@
+# Nmap 7.99 scan initiated Fri Apr 24 14:28:13 2026 as: nmap -p 80 -oN wyniki\\sprint-02\\retest_FIX002.txt 127.0.0.1
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00s latency).
+
+PORT   STATE  SERVICE
+80/tcp closed http
+
+# Nmap done at Fri Apr 24 14:28:13 2026 -- 1 IP address (1 host up) scanned in 0.17 seconds
