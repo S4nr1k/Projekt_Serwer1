@@ -1,0 +1,20 @@
+1. Skład zespołu:
+Patryk Schubert 156082 - Lider zespołu, koordynator działań, PA/QA;
+Ihor Skrypnyk 165132 - programista, tester;
+Kamil Witczak 163344 - odpowiedzialny za dokumentowanie projektu, współtwórca prezentacji, Asystent ds. Projektu;
+
+2. Tworzymy serwer na bazie Ubuntu Serwer, który będzie pełnił funkcję hosta dla strony internetowej, aplikacji internetowej, oraz działał jako NAS w sieci domowej, wraz z rozwinięciem o dodatki typu NextCloud, Plex i inne. Tworząc projekt będziemy stawiać przede wszystkim na zabezpieczenia, bezpieczeństwo dostępu, oraz możliwości bezpiecznego udostępniania plików osobom spoza sieci domowej.
+
+3. Plan działania:
+a. zapoznanie z tematyką projektu, podział obowiązków,
+b. analiza dostępnych narzędzi freeware, omówienie ich wad i zalet, decyzja odnośnie wyboru.
+c. działania wdrożeniowe: montaż serwera (hardware), instalacja podstawowego oprogramowania, podstawowa konfiguracja.
+d. ocena ryzyka dotyczącego bezpieczeństwa systemu na poziomie podstawowym.
+e. czynności zapobiegające potencjalnym zagrożeniom.
+f. Stworzenie dokumentacji, podsumowanie projektu.
+
+
+4. Link do repozytorium:
+https://github.com/S4nr1k/Projekt_Serwer1/blob/main/README.md
+
+5. Screenshoty i wyniki testów będą dodawane w miarę postępu prac.
