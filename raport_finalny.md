@@ -149,3 +149,9 @@ Wszystkie dowody techniczne są dostępne w repozytorium:
 - wyniki/sprint-02/lynis_before.txt - pełny audyt przed poprawkami
 - wyniki/sprint-02/lynis_after.txt - pełny audyt po poprawkach
 - skrypty/auto_scan.bat - skrypt automatyzacji
+## Zrzuty ekranu (dowody wizualne)
+
+- dowody/nmap_przed.png - wynik skanu Nmap przed poprawkami
+- dowody/firewall_FIX001.png - reguła blokady SMB 445
+- dowody/retest_FIX002.png - port 80 closed po zatrzymaniu IIS
+- dowody/lynis_before_after.png - porównanie wyników Lynis
